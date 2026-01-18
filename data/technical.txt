@@ -1,0 +1,14 @@
+**Technical Support SLA & Guidelines**
+
+1.  **Response Time SLA**:
+    *   Critical Issues (Server down, Payment failure): < 1 hour
+    *   High Priority (Feature malfunction): < 4 hours
+    *   General Inquiry: < 24 hours
+2.  **Support Hours**: 
+    *   Email & Chat: 24/7
+    *   Phone: 9 AM - 5 PM EST, Mon-Fri.
+3.  **Troubleshooting Basics**:
+    *   Clear browser cache and cookies.
+    *   Ensure internet connection is stable.
+    *   Restart the application.
+4.  **Escalation**: Unresolved issues after 48 hours are automatically escalated to Tier 2 support.

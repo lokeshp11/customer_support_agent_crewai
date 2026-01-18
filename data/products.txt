@@ -1,0 +1,38 @@
+Pulse Telecom Products & Plans
+
+1. Fiber Broadband (Home)
+   - Pulse Starter (100 Mbps)
+     - Price: $39.99/mo
+     - Data: Unlimited
+     - Best for: Browsing, emails, SD streaming.
+   
+   - Pulse Streamer (500 Mbps)
+     - Price: $69.99/mo
+     - Data: Unlimited
+     - Best for: 4K streaming, gaming, smart homes.
+   
+   - Pulse GigaFiber (1 Gbps)
+     - Price: $99.99/mo
+     - Data: Unlimited
+     - Includes: Free Wi-Fi 6 Router.
+     - Best for: Heavy usage, multiple users, large file uploads.
+
+2. Mobile Plans (5G)
+   - Pulse Go (5GB Data)
+     - Price: $25.00/mo
+     - Talk/Text: Unlimited
+   
+   - Pulse Unlimited 5G
+     - Price: $49.99/mo
+     - Data: Unlimited Premium Data
+     - Hotspot: 15GB included.
+     - Perks: Free Pulse Music subscription.
+
+   - Pulse Family (4 Lines)
+     - Price: $120.00/mo ($30/line)
+     - Data: Unlimited per line.
+
+3. Enterprise Solutions
+   - Dedicated Fiber Ethernet (10Gbps+)
+   - Managed Wi-Fi Solutions
+   - Contact Sales for custom quotes.

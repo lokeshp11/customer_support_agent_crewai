@@ -1,0 +1,29 @@
+Pulse Telecom Billing Policies (Detailed)
+
+1. Billing Cycle
+   - All postpaid plans (Broadband and Mobile) operate on a monthly billing cycle.
+   - The billing cycle starts on the day your service is activated.
+   - Example: If activated on the 15th, your cycle runs from the 15th to the 14th of the next month.
+   - Bills are generated 3 days after the cycle ends.
+
+2. Payment Methods
+   - Credit/Debit Cards (Visa, Mastercard, Amex)
+   - Direct Debit / ACH
+   - Online Portal (mypulse.telecom)
+   - Mobile App
+   - Check (Processed within 5 business days)
+
+3. Late Fees & Dues
+   - Payment is due 15 days after bill generation.
+   - A late fee of $10 or 5% of the outstanding amount (whichever is higher) applies if not paid by the due date.
+   - Services may be suspended if dues remain unpaid for 45 days.
+   - Reconnection fee after suspension is $35.
+
+4. Taxes & Surcharges
+   - Federal Universal Service Fund (FUSF) fees apply.
+   - State and local sales taxes are calculated based on your service address.
+   - E911 fees are mandatory for all mobile subscribers.
+
+5. Disputes
+   - If you believe there is an error in your bill, you must report it within 60 days of the bill date.
+   - Contact Billing Support at billing@pulse.telecom or ask PulseAI.

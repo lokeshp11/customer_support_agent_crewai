@@ -1,0 +1,10 @@
+**General Inquiries & Account Management**
+
+1.  **Account Creation**: Must be at least 18 years old. Valid email required.
+2.  **Password Security**: Passwords must be 8+ characters, including specific symbols.
+3.  **Privacy Policy Summary**:
+    *   We collect basic usage data to improve services.
+    *   We do NOT sell personal data.
+    *   GDPR & CCPA compliant.
+4.  **MFA**: Multi-Factor Authentication is recommended and can be enabled in Security Settings.
+5.  **Contact Us**: support@example.com for general questions.

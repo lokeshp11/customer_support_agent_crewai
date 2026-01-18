@@ -1,0 +1,35 @@
+Pulse Telecom Technical Support Guide (Detailed)
+
+1. Broadband / Fiber Internet
+   - Slow Speed Issues:
+     - Check valid speeds at speedtest.pulse.telecom.
+     - Restart your Pulse Gateway (Router) by unplugging power for 30 seconds.
+     - Move closer to the router to rule out Wi-Fi range issues.
+     - Connect via Ethernet cable to verify if it's a Wi-Fi or Line issue.
+
+   - No Internet / Red Light on Router:
+     - Check for local outages on the Pulse Mobile App.
+     - Ensure fiber cables are securely plugged in (do not bend fiber cables sharply).
+     - If the "Optical" or "PON" light is red, a technician visit is required.
+
+   - Wi-Fi Password Reset:
+     - Log in to 192.168.1.1 (Default User/Pass: admin/password).
+     - Navigate to Wireless Settings -> Security.
+
+2. Mobile 5G/4G LTE
+   - No Signal:
+     - Toggle Airplane Mode on/off.
+     - Restart your device.
+     - Ensure "Mobile Data" and "Roaming" are enabled if traveling.
+     - Update Carrier Settings (Settings -> General -> About).
+
+   - Call Drops:
+     - Enable Wi-Fi Calling as a backup in low-coverage areas.
+     - Remove obstruction/cases that might block antennas.
+
+3. Equipment Return
+   - Upon cancellation, all leased equipment (Modem, Router, TV Box) must be returned within 14 days.
+   - Failure to return results in a non-return fee:
+     - Modem: $150
+     - TV Box: $100
+     - Wi-Fi Extender: $50

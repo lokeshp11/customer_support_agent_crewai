@@ -1,0 +1,21 @@
+Pulse Telecom Privacy & General Policies
+
+1. Privacy Policy
+   - We collect user data strictly for service provision and billing.
+   - We do NOT sell personal data to third parties.
+   - Data Retention: Billing records are kept for 7 years as per law. Usage logs are retained for 6 months.
+
+2. Service Level Agreement (SLA)
+   - Residential Uptime Guarantee: 99.5%
+   - Business Uptime Guarantee: 99.9%
+   - If uptime falls below guarantee, pro-rated credits are applied upon request.
+
+3. Fair Use Policy (FUP)
+   - "Unlimited" plans purely for residential use.
+   - Continuous 24/7 heavy automated downloading may trigger a review.
+   - Mobile hotspot usage is capped at speed after allowance is used (e.g., 15GB).
+
+4. Refunds & Cancellations
+   - 30-Day Money-Back Guarantee for new Broadband installations.
+   - Cancellations must be made 24 hours before the next billing cycle to avoid charge.
+   - Pro-rated refunds are issued only if service was non-functional.

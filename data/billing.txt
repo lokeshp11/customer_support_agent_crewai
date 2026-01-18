@@ -1,0 +1,7 @@
+**Billing Policy**
+
+1.  **Payment Methods**: We accept Visa, MasterCard, American Express, and PayPal.
+2.  **Billing Cycle**: Subscriptions are billed monthly or annually, depending on the plan selected.
+3.  **Late Fees**: A late fee of $15 applies if payment is not received within 10 days of the due date.
+4.  **Disputes**: If you believe you have been charged incorrectly, please contact support within 30 days of the invoice date.
+5.  **Currency**: All charges are processed in USD.

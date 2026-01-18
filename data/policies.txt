@@ -1,0 +1,20 @@
+**Refund Policy**
+
+1.  **Eligibility**: Refunds are available for subscription services within 14 days of the initial purchase. One-time purchases are refundable within 7 days if the product is unused or defective.
+2.  **Processing Time**: Approved refunds are processed within 5–7 business days. The amount will be credited back to the original payment method.
+3.  **Non-refundable Items**: Gift cards and promotional credits are non-refundable.
+4.  **Cancellation**: You may cancel your subscription at any time. If cancelled, you will continue to have access until the end of your current billing period. No partial refunds are given for the remaining days of a billing cycle.
+
+**Technical Support SLA**
+
+1.  **Response Time**:
+    *   Critical Issues (Server down, Payment failure): < 1 hour
+    *   High Priority (Feature malfunction): < 4 hours
+    *   General Inquiry: < 24 hours
+2.  **Availability**: Support is available 24/7 via email and chat. Phone support is available 9 AM - 5 PM EST, Monday to Friday.
+
+**Account Management**
+
+1.  **Password Reset**: Users can reset their password via the "Forgot Password" link on the login page.
+2.  **Multi-Factor Authentication (MFA)**: We recommend enabling MFA for added security.
+3.  **Data Privacy**: We extract and process user data in accordance with GDPR and CCPA regulations. We do not sell your personal data to third parties.
